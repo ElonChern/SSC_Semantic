@@ -1,0 +1,2 @@
+
+torch-scatter==latest+cu101 -f https://pytorch-geometric.com/whl/torch-1.4.0.html

@@ -1,0 +1,21 @@
+ply
+format ascii 1.0
+element vertex 11
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+5 1 162 100 150 245
+8 1 147 100 150 245
+10 10 70 100 150 245
+11 1 149 100 150 245
+15 5 83 100 150 245
+18 0 111 100 150 245
+20 1 144 100 150 245
+23 0 100 100 150 245
+23 1 110 100 150 245
+41 4 110 100 150 245
+49 0 125 100 150 245
